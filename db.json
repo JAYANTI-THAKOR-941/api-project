@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Nike Air Max",
+      "description": "Comfortable and stylish running shoes for everyday use.",
+      "price": "$120",
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "id": "PqFCmWvIg7s"
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "description": "Wireless noise-cancelling premium headphones.",
+      "price": "$399",
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "id": "ELoIMlGIcH4"
+    },
+    {
+      "name": "Wooden Office Desk",
+      "description": "Modern wooden desk suitable for home and office setup.",
+      "price": "$250",
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+      "id": "Lok2-31AM90"
+    }
+  ],
+  "users": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
